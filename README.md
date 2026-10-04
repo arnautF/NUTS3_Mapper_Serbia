@@ -1,4 +1,4 @@
-# NUTS3_Mapper_Serbia
+# NUTS3 Mapper Serbia
 
 A lightweight, browser-based service for generating publication-ready choropleth maps of Serbia from Excel or CSV data.
 
